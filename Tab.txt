@@ -1,0 +1,106 @@
+Some changes made just to try
+
+1) Initialized Git repo
+
+
+2) Checked the Git status 
+
+git status
+
+3) Add the untracked files to git staging area
+
+git add fileName
+or
+git add fileName1 fileName2 fileName3 
+or
+git add *.*
+or
+git add .
+
+
+4) To unstage the tracked files
+
+git rm --cached fileName
+or
+git rm --cached fileName1 fileName2 fileName3
+
+5) To commit the tracked files to staging area
+
+git commit -m <message>
+
+6) To remove the files from staging changes
+
+7)
+git restore fileName
+or
+git restore fileName1 fileName2 fileName3
+or
+git restore *.*
+or
+git restore .
+
+git config --global user.name "Bhuvaneshwari"
+git config --global user.email "bhuvaneswari@gmail.com"
+
+8) to know the git credentails,
+
+git config --list
+or
+git config --global user.name
+git config --global user.email
+
+
+
+9) to know the git commit details,
+
+git log
+
+10) to revert to the previous commit id,
+
+git checkout commit_id
+
+
+
+
+
+
+
+
+3:43 PM
+
+Anitha (ACL Training) to Everyone
+
+Please share your feedback https://forms.office.com/r/VMJjriyE4s
+
+
+
+
+3:44 PM
+
+Anitha (ACL Training) to Everyone
+
+https://forms.office.com/r/VMJjriyE4s
+
+
+
+
+Viewing POSH, CCI, Corporate presentation and Time live presentations.
+
+
+
+
+7760196688
+
+
+
+
+3:59 PM
+
+Katherin M C Luiz to Everyone
+
+katherinl@gmail.com
+
+
+
+
+
